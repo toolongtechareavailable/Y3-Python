@@ -1,1 +1,10 @@
+#This is a comment
+#Python ignores comments
+#Comments are used to explain the code
+#The best programmers comments all their code
+#The worst programmers dont comment at all
+
+#Example
+name = "toolongtechareavailable" #This is a variable called name
+print(name)   #This displays whatever is in name
 
