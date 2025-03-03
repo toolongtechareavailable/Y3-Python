@@ -1,0 +1,21 @@
+WELCOME TO THE CONFERENCE CENTER")
+print ("Please enter the following steps to be verified by King Borley")
+print ("")
+
+ans1 = input("What is the opposite of ruining the loud: ")
+
+ans2 = input("What is the opposite of conferring: ")
+
+
+ans3 = input("What is the opposite of correct reading: ")
+
+ 
+
+ans4 = input("What is the opposite of Parkins TicTacToe: ")
+
+ans5 = input("What do you call someone who's name is Arnav and who is reading: ")
+
+ans6 = input("What is the backwards spelling of tuohsarc snikraP ")
+print("")
+print ("Shhh.", ans2 ," The Sigma Borley is ", ans1 ," you need to avoid getting ", ans3 ," and steal the ", ans4 ,". It is the only way to ensure that ", ans5, "runs before the ", ans6 ,". The fate of moments is in your hands. Save it from the Borley Stare" )
+
