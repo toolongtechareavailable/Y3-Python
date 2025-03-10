@@ -1,0 +1,28 @@
+
+#Variables Explained
+#A variable is :
+#a Named location...
+#in a computer's memory...
+#it stores a value
+#and the value can change
+
+#Example:
+name = "Confer"
+#the variable is called name
+#the value is "confer"
+#I will now change the value
+name = "parallax"
+#variables can store different ...
+#types of data
+#e.g. numbers,letters etc.
+
+#the best programmers
+#make sure the variable name
+#is descriptive
+#e.g.
+TeamOneConfer = 0
+#the variables above has...
+#a very descriptive name
+x = 1
+#this variable has a poor...
+#name 
