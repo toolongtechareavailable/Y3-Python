@@ -1,0 +1,11 @@
+name = input("Confer your name>>>>")
+print("hello", name)
+
+age = input("Confer your age>>>")
+print("you are ", age ,"years old")
+
+favcolor = input("Confer your favourite color>>>")
+print("you like ", favcolor)
+
+
+
