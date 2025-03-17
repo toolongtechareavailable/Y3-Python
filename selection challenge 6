@@ -1,0 +1,12 @@
+age = 13
+ticket = True
+
+print("Welcome to the cinema")
+print("This movie is rated 15")
+print("")
+
+
+if age >= 15 or ticket == True:
+ print("Please find your seat")
+else:
+ print("You are not allowed this time") 
