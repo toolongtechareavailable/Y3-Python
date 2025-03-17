@@ -1,0 +1,6 @@
+
+skyColour = "purple"
+if skyColour == "purple":
+    print("The sky is NOT blue")
+else:
+    print ("The sky is blue today")
