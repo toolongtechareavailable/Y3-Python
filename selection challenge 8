@@ -1,0 +1,9 @@
+gamemode = int(input("press 1 for 1-player, press 2 for 2-player,press 3 for online options"))
+if gamemode == 1:
+  print("1-player gamemode selected")
+elif gamemode == 2:
+  print("2-player gamemode selected")
+elif gamemode == 3:
+  print("online gamemode selected")
+else:
+  print ("invalid option")  
