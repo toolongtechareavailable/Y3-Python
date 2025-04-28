@@ -1,0 +1,15 @@
+Challenge 1
+for i in range(10):
+ print("kebab")
+
+Challenge 2 
+for i in range(0, 25, 3):
+ print(i)
+
+Challenge 3
+name = str(input("Input your name>>>"))
+displaynum = int(input("How many times do you want your name to be inputed?"))
+for i in range(displaynum):
+ print(name)
+
+Challenge 4
