@@ -13,3 +13,26 @@ for i in range(displaynum):
  print(name)
 
 Challenge 4
+for i in range(1,13):
+ number = int(input("Enter a times table: "))
+ print("showing the",number,"times table")
+ print(i ,"x", number, "=", i*number)
+
+Challenge 5
+for i in range(10, 0, -1):
+ print(i)
+ print("!!Blast off!!")
+
+Challenge 6
+number = 0 
+rainbow =("red","orange","yellow","green","blue","indigo", "violet")
+for i in rainbow:
+ number = number + 1
+ print("Colour",number*1,"is",i)
+
+Challenge 7
+in = int(input("integer below 100 > "))
+for i in range(in, 0, -1):
+ print(in-1)
+
+Challenge 8
