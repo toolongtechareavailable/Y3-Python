@@ -1,0 +1,46 @@
+Challenge 1
+password = ""
+while password != "kebab":
+ password = input('Please enter a password: ')
+print ("correct password accepted")
+Challenge 2
+answer = "N"
+while answer != "Y":
+ print("Are we there yet?")
+ answer = str(input("Please respond, y or n: ").upper())
+print("Yay! We are there!!")
+Challenge 3
+StayInLoop = 1
+while StayInLoop != 2:
+ print("Press 1 for  choice or 2 to exit")
+ StayInLoop = int(input("Please respond, 1 or 2: "))
+print("Exited")
+Challenge 4
+loopCount = 1
+while loopCount < 11:
+ print("Loop", loopCount)
+ loopCount = loopCount +1
+print("End")
+Challenge 5
+username = ""
+while not username:
+    username = str(input("Enter username: "))
+print(username)
+print("accepted")
+Challenge 6
+import random
+userGuess = 456893220
+number=random.randint(1,10)
+while userGuess != number:
+ userGuess=int(input("Guess the number between 1-10"))
+
+# Add one line of code here to allow the user to
+#..guess the random number multiple times
+# Hint: You might need to indent some code
+
+ if number < userGuess:
+    guess=int(input("Guess too High, try again: "))
+ elif number > userGuess:
+    guess=int(input("Guess too Low, try again: "))
+    print("Yay! you got it correct")
+Challenge 7
